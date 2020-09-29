@@ -1,6 +1,8 @@
 # MDW-ingestion-load-template
 ADF pipeline template to perform data ingestion, data transformation using Azure Databricks and loading of data into Azure Synapse Analytics using polybase
 
+* Use E-E Pipeline - Part 1.zip and E-E Pipeline - Part 2.zip files for re-creating the pipelines
+
 ## Pipeline 1
 #### Lookup Activity
   * We are leveraging lookup activity in ADF pipeline to list all the tables in Database A from source A
